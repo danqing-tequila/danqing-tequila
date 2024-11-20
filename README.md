@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+V1 version only do Polish learning!
+V2 version will add Germany and English learning
+
 Here I list Features checklist for PassNow!
 
 1. translate word:
