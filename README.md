@@ -41,4 +41,6 @@ I integrate AI features to software products. I design, plan, implement and depl
    - [ ] damn it, so much features how long time it will take me!!!!
 
 ## Product 2: Youtube Replay & Save History
-To be filled
+Download "YouTube Replay Extension" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
+### Features and checklist!
+- To be filled
