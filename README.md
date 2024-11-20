@@ -1,4 +1,4 @@
-## Hi there 👋
+hi## Hi there 👋
 
 <!--
 **DaisyXten/DaisyXten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,5 +33,5 @@ Here I list Features checklist for PassNow!
 4. Payment
     a. subscription 
     b. charge by request counts? set credit in advance
-
+5. Ad affiliation elements
 damn it, so much features how long time it will take me!!!!
