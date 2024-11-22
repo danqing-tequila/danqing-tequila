@@ -23,12 +23,13 @@ I integrate AI features to software products. I design, plan, implement and depl
 
 1. translate word:
     - [x] a. wrap word
-    - [x] b. popup box contain translation
-    - [ ] c. popup box contain x, sound, star
+    - [x] b. popup box contain translation that used api
+    - [x] c. popup box contain x, sound, star
+    - [ ] d. call speech api
 3. login/logout/registeration
     - [ ] a. Y.third party login, google
     - [ ] b. Y.email registeration
-    - [ ] c. Y.login/logout
+    - [x] c. Email login/logout
 4. Add articles.
     - [ ] a. English simple stories. Paginated by subtitles
     - [ ] b. Polish simple stories.
