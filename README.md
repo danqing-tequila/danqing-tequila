@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # My WebApp list!
-I design, plan, implement and deploy these webapps independently. Here are my apps!
+I design, plan, implement and deploy webapps and Chrome extensions independently. Here are my apps!
 
 1. [B1Buddy v1.0](product_1)
 2. [YouTube Replay Extension](product_2)
