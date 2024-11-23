@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My WebApp list!
-I design, plan, implement and deploy webapps and Chrome extensions independently. Here are my apps!
+# My Product list!
+I design, plan, implement and deploy webapps and Chrome extensions independently. Here are my products!
 
 1. [B1Buddy v1.0](product_1)
 2. [YouTube Replay Extension](product_2)
