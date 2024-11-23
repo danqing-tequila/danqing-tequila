@@ -46,4 +46,4 @@ I design, plan, implement and deploy these webapps independently. Here are my ap
 ## Youtube Replay & Save History  <a name="product_2"></a>
 Download "YouTube Replay Extension" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
 ### Features checklist!
-- To be filled
+- [The Privacy Policy](https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/README.md)
