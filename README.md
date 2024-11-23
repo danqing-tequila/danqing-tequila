@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My WebApp list!
+I design, plan, implement and deploy these webapps independently. Here are my apps!
 
-# Introduction
-I integrate AI features to software products. I design, plan, implement and deploy to cloud following products independently.
+1. [B1Buddy v1.0](product_1)
+2. [YouTube Replay Extension](product_2)
+   
+## B1-Buddy V1.0! <a name="product_1"></a>
 
-## Product 1: B1-Buddy V1.0!
-
-### Features and checklist!
+### Featuressw!
 
 1. translate word:
     - [x] a. wrap word
@@ -41,7 +43,7 @@ I integrate AI features to software products. I design, plan, implement and depl
 6. Ad affiliation elements
    - [ ] damn it, so much features how long time it will take me!!!!
 
-## Product 2: Youtube Replay & Save History
+## Youtube Replay & Save History  <a name="product_2"></a>
 Download "YouTube Replay Extension" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
-### Features and checklist!
+### Features checklist!
 - To be filled
