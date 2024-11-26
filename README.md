@@ -33,14 +33,15 @@ I design, plan, implement and deploy webapps and Chrome extensions independently
     - [ ] b. third party login, google auto registeration and login
     - [ ] b. CAPTCHA and 2FA
     - [ ] c. WP Login Hide
-4. Add articles.
+4. Payment
+    - [ ] a. subscription 
+    - [ ] b. charge by request counts? set credit in advance
+5. Add articles.
     - [ ] a. English simple stories. Paginated by subtitles
     - [ ] b. Polish simple stories.
     - [ ] c. Polish B1 exams
     - [ ] d. Y.pagination by indexes, rather than word counts
-5. Payment
-    - [ ] a. subscription 
-    - [ ] b. charge by request counts? set credit in advance
+
 6. Ad affiliation elements
    - [ ] damn it, so much features how long time it will take me!!!!
 
