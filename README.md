@@ -29,9 +29,10 @@ I design, plan, implement and deploy webapps and Chrome extensions independently
     - [x] c. popup box contain x, sound, star
     - [ ] d. call speech api
 3. login/logout/registeration
-    - [x] a. Y.third party login, google auto registeration and login
-    - [ ] b. Y.email registeration
-    - [x] c. Email login/logout
+    - [x] a. Custom login/registeration, embeded in menu header and footers.
+    - [ ] b. third party login, google auto registeration and login
+    - [ ] b. CAPTCHA and 2FA
+    - [ ] c. WP Login Hide
 4. Add articles.
     - [ ] a. English simple stories. Paginated by subtitles
     - [ ] b. Polish simple stories.
