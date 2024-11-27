@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # [DaisyLee](https://www.linkedin.com/in/danqing-li-i/)'s Product list!
 I design, plan, implement and deploy webapps and Chrome extensions independently. Here are my products!
 
-1. [B1Buddy v1.0](product_1)
-2. [YouTube Replay Extension](product_2)
+1. [B1Buddy v1.0](#product_1)
+2. [YouTube Replay Extension](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
    
 ## B1-Buddy V1.0! <a name="product_1"></a>
 
@@ -44,7 +44,7 @@ I design, plan, implement and deploy webapps and Chrome extensions independently
 6. Ad affiliation elements
    - [ ] damn it, so much features how long time it will take me!!!!
 
-## Youtube Replay & Save History  <a name="product_2"></a>
+## Youtube Replay Extension
 Download "YouTube Replay Extension" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
 ### Features checklist!
 - [The Privacy Policy](https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/README.md)
