@@ -30,9 +30,9 @@ I design, plan, implement and deploy webapps and Chrome extensions independently
     - [ ] d. call speech api
 3. login/logout/registeration
     - [x] a. Custom login/registeration, embeded in menu header and footers.
-    - [ ] b. third party login, google auto registeration and login
-    - [ ] b. CAPTCHA and 2FA
+    - [x] b. CAPTCHA
     - [ ] c. WP Login Hide
+    - [ ] b. third party login, google auto registeration and login
 4. Payment
     - [ ] a. subscription 
     - [ ] b. charge by request counts? set credit in advance
