@@ -42,7 +42,7 @@ I design, plan, implement and deploy webapps and Chrome extensions independently
     - [ ] a. subscription
     - [ ] b. charge by request counts, set credit in advance
 7. Ad affiliation elements
-   - [ ] damn it, so much features how long time it will take me!!!!
+   - [ ] Some extension features.
 
 ## Youtube Replay Extension
 Download "YouTube Replay Extension" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
