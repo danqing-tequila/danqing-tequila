@@ -33,15 +33,15 @@ I design, plan, implement and deploy webapps and Chrome extensions independently
     - [x] b. CAPTCHA
     - [ ] c. WP Login Hide
     - [ ] b. third party login, google auto registeration and login
-4. Add articles.
-    - [ ] a. English simple stories. Paginated by subtitles
+4. Articles and Content Filling.
+    - [ ] 0. web scrappers for famous news websites
     - [ ] b. Polish simple stories.
     - [ ] c. Polish B1 exams
     - [ ] d. Y.pagination by indexes, rather than word counts
-5. Payment
-    - [ ] a. subscription 
-    - [ ] b. charge by request counts? set credit in advance
-6. Ad affiliation elements
+6. Payment
+    - [ ] a. subscription
+    - [ ] b. charge by request counts, set credit in advance
+7. Ad affiliation elements
    - [ ] damn it, so much features how long time it will take me!!!!
 
 ## Youtube Replay Extension
