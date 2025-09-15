@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [DaisyLee](https://www.linkedin.com/in/danqing-li-i/)'s Product list!
+# [Danqing-Tequila](https://www.linkedin.com/in/danqing-li-i/)'s Product list!
 I design, plan, implement and deploy webapps and Chrome extensions independently. Here are my products!
 
 
