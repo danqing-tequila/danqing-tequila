@@ -16,10 +16,20 @@ Here are some ideas to get you started:
 # [DaisyLee](https://www.linkedin.com/in/danqing-li-i/)'s Product list!
 I design, plan, implement and deploy webapps and Chrome extensions independently. Here are my products!
 
-1. [B1Buddy v1.0](#product_1)
-2. [YouTube Replay Extension](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
-   
-## B1-Buddy V1.0! <a name="product_1"></a>
+
+1. [YouTube Replay Extension](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
+2. [Aliexpress Invoice Download](https://chromewebstore.google.com/detail/aliexpress-invoice-downlo/kndnehmcbbkjhmpnonfjgpmlidcgngjc?hl=en-GB&utm_source=ext_sidebar)
+3. [B1Buddy v1.0](#product_1)   
+
+## 1. Youtube Replay Extension
+Download "YouTube Replay Extension" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
+### Features checklist!
+- [The Privacy Policy](https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/README.md)
+
+## 2. Aliexpress Invoice Download
+Download "Aliexpress Invoice Download" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/aliexpress-invoice-downlo/kndnehmcbbkjhmpnonfjgpmlidcgngjc?hl=en-GB&utm_source=ext_sidebar)
+
+## 3. B1-Buddy V1.0! <a name="product_1"></a>
 
 ### Featuressw!
 
@@ -43,8 +53,3 @@ I design, plan, implement and deploy webapps and Chrome extensions independently
     - [ ] b. charge by request counts, set credit in advance
 7. Ad affiliation elements
    - [ ] Some extension features.
-
-## Youtube Replay Extension
-Download "YouTube Replay Extension" by click the icon [<img src="https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/icon_32_32.jpg">](https://chromewebstore.google.com/detail/youtube-replay-extension/ogmkdjinbakbbhidggendkibgjiepdpe)
-### Features checklist!
-- [The Privacy Policy](https://github.com/DaisyXten/YouTube-Replay-Privay-Policy/blob/main/README.md)
